@@ -2,3 +2,4 @@
 Student: Abdul Muqeet
 Roll Number: FA23-BCT-001
 Course: Cloud Computing
+This repository demonstrates Git workflows on AWS EC2.
