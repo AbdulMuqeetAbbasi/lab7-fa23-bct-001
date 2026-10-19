@@ -1,1 +1,1 @@
-Project status: Tested and ready.
+Project status: Tested; security review pending.
